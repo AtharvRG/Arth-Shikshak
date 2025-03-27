@@ -74,6 +74,7 @@
 * Integration with financial data providers for real-time market information.
 * Implementation of more advanced financial planning tools (e.g., retirement calculators, investment portfolio optimizers).
 * Support for multiple languages.
+* Intuitive Dashboard broadcasting your details and stats.
 * Enhancements to the AI's knowledge base and conversational abilities.
 * User authentication and account management.
 
