@@ -39,8 +39,8 @@
 1.  Clone this repository:
 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/AtharvRG/Arth-Shikshak.git](https://github.com/AtharvRG/Arth-Shikshak.git)
+    cd Arth-Shikshak
     ```
 
 2.  Install the required packages:
@@ -53,7 +53,7 @@
 
     ```python
     # main.py
-    GOOGLE_API_KEY = 'YOUR_API_KEY'  # Replace with your actual API key
+    GOOGLE_API_KEY = 'YOUR API KEY Please!'  # Replace with your actual API key
     ```
 
 4.  Run the application using Streamlit:
