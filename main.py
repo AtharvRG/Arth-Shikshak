@@ -6,7 +6,7 @@ import os
 import google.generativeai as genai
 
 # Configuration
-GOOGLE_API_KEY = 'YOUR API KEY Please!'
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Constants
