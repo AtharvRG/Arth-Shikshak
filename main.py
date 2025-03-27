@@ -53,7 +53,7 @@ def main():
         st.session_state.chat_id = chat_id
 
     # --- Main Chat Area ---
-    st.title("Chat with Gemini")
+    st.title("Arth Shikshak")
 
     # Load user data
     if "user_data" not in st.session_state:
