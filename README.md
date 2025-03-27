@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://github.com/AtharvRG/Arth-Shikshak/logo.jpg?raw=true" alt="Arth Shikshak Logo" width="200"/>
+  <img src=https://github.com/AtharvRG/Arth-Shikshak/blob/main/logo.jpg?raw=true" alt="Arth Shikshak Logo" width="200"/>
   <h1 align="center">Arth Shikshak: Your AI-Powered Financial Guide 💰</h1>
 </div>
 
