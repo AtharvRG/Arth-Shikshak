@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/master/assets/arth_shikshak_logo.png?raw=true" alt="Arth Shikshak Logo" width="200"/>
+  <img src=https://github.com/AtharvRG/Arth-Shikshak/blob/master/logo.png?raw=true" alt="Arth Shikshak Logo" width="200"/>
   <h1 align="center">Arth Shikshak: Your AI-Powered Financial Guide 💰</h1>
 </div>
 
@@ -10,7 +10,7 @@
   <a href="https://pypi.org/project/google-generativeai/">
     <img src="https://img.shields.io/pypi/v/google-generativeai" alt="PyPI version">
   </a>
-  <a href="https://github.com/your-username/your-repo-name/blob/master/LICENSE">
+  <a href="https://github.com/AtharvRG/Arth-Shikshak/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   </a>
 </p>
