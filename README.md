@@ -17,7 +17,7 @@
 
 ## Project Description
 
-**Arth Shikshak** is a Streamlit application designed to provide users with personalized financial guidance and education. This AI-powered tool, built with Gemini, offers an interactive chat interface to discuss various financial topics, including budgeting, saving, investments, and more.  It aims to empower users to make informed financial decisions.
+**Arth Shikshak(MVP)** is a Streamlit Demo application designed to provide users with personalized financial guidance and education. This AI-powered tool, built with Gemini, offers an interactive chat interface to discuss various financial topics, including budgeting, saving, investments, and more.  It aims to empower users to make informed financial decisions.
 
 ## Key Features
 
