@@ -39,7 +39,7 @@
 1.  Clone this repository:
 
     ```bash
-    git clone [https://github.com/AtharvRG/Arth-Shikshak.git](https://github.com/AtharvRG/Arth-Shikshak.git)
+    git clone https://github.com/AtharvRG/Arth-Shikshak.git
     cd Arth-Shikshak
     ```
 
